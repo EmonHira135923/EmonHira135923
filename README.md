@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emon Hossain Hira</h1>
 <h3 align="center">I am a Beginear Basic Programing Learner and Competative Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emonhira135923" alt="emonhira135923" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **HTML,CSS,Javscript,Django**
 
 - 💬 Ask me about **C,C++,Python,Probleam-Solving**
