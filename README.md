@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emon Hossain Hira</h1>
 <h3 align="center">I am a Beginear Basic Programing Learner and Competative Programmer</h3>
 
-- 🔭 I’m currently working With **C,C++,Python,Data-Stucture,Algorithom,OOP,HTML,CSS,Javascript,Probleam-Solving**
+- 🔭 I’m currently working With **C,C++,Python,Data-Stucture,Algorithom,OOP,HTML,CSS,Javascript,My-SQL,Probleam-Solving**
 
 - 🌱 I’m currently learning **HTML,CSS,Javscript,Django**
 
