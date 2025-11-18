@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-banner.vercel.app/api/?username=emonhira135923&title=Emon%20Hossain%20Hira&desc=React%20Developer%20%7C%20Competitive%20Programmer&skills=C,C%2B%2B,Python,PHP,OOP,HTML,CSS,Tailwind,React,Firebase,Node.js,Express.js&theme=radical" alt="Emon Hossain Hira Banner" width="100%"/>
+</p>
+
 <h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1>
 <h3 align="center">💻 React Developer | 🏆 Competitive Programmer</h3>
 <p align="center">
@@ -11,8 +15,6 @@
 - 📚 Always exploring new technologies and best practices
 - ⚡ **Fun fact:** I learn new technologies very quickly
 - 📫 Reach me at: **emonhossainhira231@gmail.com**
-
-
 
 ## 🌐 Connect With Me
 
@@ -34,7 +36,7 @@
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**
-<p align="left">
+<p align="start">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -43,7 +45,7 @@
 </p>
 
 ### **Frontend Development**
-<p align="left">
+<p align="start">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -52,7 +54,7 @@
 </p>
 
 ### **Backend & Databases**
-<p align="left">
+<p align="start">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
@@ -62,14 +64,14 @@
 </p>
 
 ### **Tools & Platforms**
-<p align="left">
+<p align="start">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 ## 📊 Coding Profiles
 
-<p align="left">
+<p align="start">
   <a href="https://www.codechef.com/users/emonhira135923" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
@@ -86,11 +88,16 @@
 
 ## 📈 GitHub Stats
 
-![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonhira135923)
+<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhira135923&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923)
+<p align="start>
+  ![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonhira135923&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923&theme=radical&hide_border=true)
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhira135923)
+
+</div>
 
 ---
 
