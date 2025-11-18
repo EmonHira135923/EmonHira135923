@@ -1,13 +1,22 @@
 <h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1>
 <h3 align="center">💻 React Developer | 🏆 Competitive Programmer</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
+## 🚀 About Me
+
+- 🌱 Currently learning **Node.js, Express.js, PostgreSQL & MongoDB**
+- 💻 Passionate about **React** development and **competitive programming**
+- 📚 Always exploring new technologies and best practices
+- ⚡ **Fun fact:** I learn new technologies very quickly
+- 📫 Reach me at: **emonhossainhira231@gmail.com**
+
+
+
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="start">
   <a href="https://linkedin.com/in/emon135923" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -21,14 +30,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Node.js, Express.js, PostgreSQL & MongoDB**
-- 💻 Passionate about **React** development and **competitive programming**
-- 📚 Always exploring new technologies and best practices
-- ⚡ **Fun fact:** I learn new technologies very quickly
-- 📫 Reach me at: **emonhossainhira231@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -85,14 +86,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emonhira135923&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emonhira135923&theme=react" />
-</p>
+![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonhira135923)
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhira135923&layout=compact&theme=react&langs_count=8" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhira135923)
 
 ---
 
