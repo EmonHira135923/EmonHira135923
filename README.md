@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/twyFr3MN/Emon-Cover.png" alt="Emon Hossain Hira Banner" width="100%"/>
+  <img src="https://i.ibb.co.com/twyFr3MN/Emon-Cover.png" alt="Emon Hossain Hira Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1>
@@ -87,15 +87,14 @@
 </p>
 
 ## 📈 GitHub Stats
-
 <div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhira135923&layout=compact&theme=radical&hide_border=true)
 
-<p align="start>
+<p align="center">
   ![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonhira135923&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923&theme=radical&hide_border=true)
 </p>
-
 
 </div>
 
