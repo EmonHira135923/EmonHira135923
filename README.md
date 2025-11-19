@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1>
-<h3 align="center">💻 React Developer | 🏆 Competitive Programmer</h3>
+<h3 align="center">💻 Full Stack Web Developer | React Specialist | 🏆 Competitive Programmer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 </p>
