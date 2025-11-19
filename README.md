@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/twyFr3MN/Emon-Cover.png" alt="Emon Hossain Hira Banner" width="100%">
+  <img src="https://i.ibb.co.com/jvjQMw3b/Emon-Linkedin-Banner.png" alt="Emon Hossain Hira Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1>
