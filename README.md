@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-banner.vercel.app/api/?username=emonhira135923&title=Emon%20Hossain%20Hira&desc=React%20Developer%20%7C%20Competitive%20Programmer&skills=C,C%2B%2B,Python,PHP,OOP,HTML,CSS,Tailwind,React,Firebase,Node.js,Express.js&theme=radical" alt="Emon Hossain Hira Banner" width="100%"/>
+  <img src="https://i.ibb.co.com/twyFr3MN/Emon-Cover.png" alt="Emon Hossain Hira Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1>
