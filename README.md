@@ -1,4 +1,5 @@
----
+<img src="https://i.ibb.co.com/60KmDQZc/My-Cover-Image.png" alt="Emon Hossain Hira Banner" width="100%"/>
+
 <div align="center">
 
 ## 👁️ Profile Views
@@ -14,10 +15,6 @@
 *"Code with passion, build with purpose 🔥"*
 
 </div>
-
----
-
-<img src="https://i.ibb.co.com/60KmDQZc/My-Cover-Image.png" alt="Emon Hossain Hira Banner" width="100%"/>
 
 <div align="center">
 
