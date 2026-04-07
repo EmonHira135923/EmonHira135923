@@ -1,3 +1,22 @@
+---
+<div align="center">
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
+<br/>
+
+⭐ **If you find my work helpful, please star my repositories — it means a lot!**
+
+<br/>
+
+*"Code with passion, build with purpose 🔥"*
+
+</div>
+
+---
+
 <img src="https://i.ibb.co.com/60KmDQZc/My-Cover-Image.png" alt="Emon Hossain Hira Banner" width="100%"/>
 
 <div align="center">
@@ -143,70 +162,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/emonhira135923/emonhira135923/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>⚙️ <b>Click here — How to enable the Snake Animation</b></summary>
-<br/>
-
-Create the file `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: emonhira135923
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-<div align="center">
-
-## 💡 Dev Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-## 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-
-<br/>
-
-⭐ **If you find my work helpful, please star my repositories — it means a lot!**
-
-<br/>
-
-*"Code with passion, build with purpose 🔥"*
-
-</div>
