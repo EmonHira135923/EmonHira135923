@@ -1,50 +1,59 @@
-<div align="center">
-
-```
-███████╗███╗   ███╗ ██████╗ ███╗   ██╗
-██╔════╝████╗ ████║██╔═══██╗████╗  ██║
-█████╗  ██╔████╔██║██║   ██║██╔██╗ ██║
-██╔══╝  ██║╚██╔╝██║██║   ██║██║╚██╗██║
-███████╗██║ ╚═╝ ██║╚██████╔╝██║ ╚████║
-╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-```
-
-</div>
-
 <img src="https://i.ibb.co.com/60KmDQZc/My-Cover-Image.png" alt="Emon Hossain Hira Banner" width="100%"/>
 
 <div align="center">
 
-# Emon Hossain Hira
-
-### Full Stack Web Developer · React Specialist · Competitive Programmer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Competitive+Programmer+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hi+there%2C+I'm+Emon+Hossain+Hira+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Competitive+Programmer+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-```javascript
-const emon = {
-  name: "Emon Hossain Hira",
-  role: "Full Stack Web Developer",
-  location: "Bangladesh 🇧🇩",
-  currentlyLearning: ["Node.js", "Express.js", "MongoDB", "Next.js"],
-  passions: ["React Development", "Competitive Programming", "Clean Code"],
-  funFact: "I learn new technologies ridiculously fast ⚡",
-  contact: "emonhossainhira231@gmail.com",
-  motto: "Code with passion, build with purpose 🔥"
-};
-```
+## 🙋‍♂️ Who Am I?
+
+</div>
+
+<table align="center">
+  <tr>
+    <td>👤 <b>Name</b></td>
+    <td>Emon Hossain Hira</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Role</b></td>
+    <td>Full Stack Web Developer</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Bangladesh 🇧🇩</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Currently Learning</b></td>
+    <td>Node.js · Express.js · MongoDB · Next.js</td>
+  </tr>
+  <tr>
+    <td>❤️ <b>Passions</b></td>
+    <td>React Development · Competitive Programming · Clean Code</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Fun Fact</b></td>
+    <td>I learn new technologies ridiculously fast!</td>
+  </tr>
+  <tr>
+    <td>📫 <b>Email</b></td>
+    <td><a href="mailto:emonhossainhira231@gmail.com">emonhossainhira231@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>💬 <b>Motto</b></td>
+    <td><i>"Code with passion, build with purpose 🔥"</i></td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon135923)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/emon1359)
@@ -55,11 +64,11 @@ const emon = {
 
 ---
 
-## 🛠️ Tech Arsenal
+<div align="center">
+
+## 🛠️ Tech Stack
 
 ### 💬 Languages
-
-<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -67,11 +76,9 @@ const emon = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-</div>
+---
 
 ### 🎨 Frontend
-
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -80,11 +87,9 @@ const emon = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+---
 
 ### ⚙️ Backend & Databases
-
-<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -93,11 +98,9 @@ const emon = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+---
 
 ### 🔧 Tools & Platforms
-
-<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -109,9 +112,9 @@ const emon = {
 
 ---
 
-## 🏆 Competitive Programming
-
 <div align="center">
+
+## 🏆 Competitive Programming
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/emonhira135923)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/emon_135923)
@@ -122,67 +125,69 @@ const emon = {
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emonhira135923&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhira135923&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Emon's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emonhira135923&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emonhira135923&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
+
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/emonhira135923/emonhira135923/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-> ⚠️ **To enable the snake animation**, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: emonhira135923
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+<details>
+<summary>⚙️ <b>Click here — How to enable the Snake Animation</b></summary>
+<br/>
+
+Create the file `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: emonhira135923
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
-## 💡 Random Dev Quote
-
 <div align="center">
+
+## 💡 Dev Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -192,12 +197,16 @@ const emon = {
 
 <div align="center">
 
-### 👁️ Profile Views
+## 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+<br/>
+
+⭐ **If you find my work helpful, please star my repositories — it means a lot!**
+
+<br/>
 
 *"Code with passion, build with purpose 🔥"*
 
-</div> 
+</div>
