@@ -1,6 +1,6 @@
 ✔ Code with passion, build with purpose!
 
-<p align="center"> <img src="https://i.ibb.co.com/wF6P75Tt/My-Coverof-Likedin.png" alt="Emon Hossain Hira Banner" width="100%"> </p><h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1> <h3 align="center">💻 Full Stack Web Developer | React Specialist | 🏆 Competitive Programmer</h3><p align="center"> <img src="" alt="Profile views" /> </p>
+<p align="center"> <img src="https://i.ibb.co.com/60KmDQZc/My-Cover-Image.png" alt="Emon Hossain Hira Banner" width="100%"> </p><h1 align="center">👋 Hello, I'm Emon Hossain Hira</h1> <h3 align="center">💻 Full Stack Web Developer | React Specialist | 🏆 Competitive Programmer</h3><p align="center"> <img src="" alt="Profile views" /> </p>
 🚀 About Me
 🌱 Currently learning Node.js, Express.js, MongoDB & Next.js
 
