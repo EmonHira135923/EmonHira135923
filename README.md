@@ -7,13 +7,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
 <br/>
-
-⭐ **If you find my work helpful, please star my repositories — it means a lot!**
-
-<br/>
-
-*"Code with passion, build with purpose 🔥"*
-
 </div>
 
 <div align="center">
@@ -25,6 +18,13 @@
 ---
 
 <div align="center">
+
+
+⭐ **If you find my work helpful, please star my repositories — it means a lot!**
+
+<br/>
+
+*"Code with passion, build with purpose 🔥"*
 
 ## 🙋‍♂️ Who Am I?
 
