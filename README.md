@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>🌱 <b>Currently Learning</b></td>
-    <td>Node.js · Express.js · MongoDB · Next.js</td>
+    <td>TypeScript</td>
   </tr>
   <tr>
     <td>❤️ <b>Passions</b></td>
