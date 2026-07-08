@@ -144,12 +144,6 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emonhira135923&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhira135923&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <br/>
