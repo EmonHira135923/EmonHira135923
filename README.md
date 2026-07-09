@@ -144,6 +144,16 @@
 <div align="center">
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jasiafaruksaba&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jasiafaruksaba&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160px" />
+  </a>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <br/>
