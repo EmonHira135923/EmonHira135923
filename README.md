@@ -1,3 +1,17 @@
+<div align="center">
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
+<br/>
+
+⭐ **If you find my work helpful, please star my repositories — it means a lot!**
+
+*"Code with passion, build with purpose 🔥"*
+
+</div>
+
 <img src="https://i.ibb.co.com/60KmDQZc/My-Cover-Image.png" alt="Emon Hossain Hira Banner" width="100%"/>
 
 <div align="center">
@@ -143,21 +157,5 @@
 <br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emonhira135923&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-## 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-
-<br/>
-
-⭐ **If you find my work helpful, please star my repositories — it means a lot!**
-
-*"Code with passion, build with purpose 🔥"*
 
 </div>
