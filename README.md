@@ -2,15 +2,6 @@
 
 <div align="center">
 
-## 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-
-<br/>
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hi+there%2C+I'm+Emon+Hossain+Hira+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Competitive+Programmer+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
@@ -18,13 +9,6 @@
 ---
 
 <div align="center">
-
-
-⭐ **If you find my work helpful, please star my repositories — it means a lot!**
-
-<br/>
-
-*"Code with passion, build with purpose 🔥"*
 
 ## 🙋‍♂️ Who Am I?
 
@@ -163,3 +147,17 @@
 </div>
 
 ---
+
+<div align="center">
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=emonhira135923&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
+<br/>
+
+⭐ **If you find my work helpful, please star my repositories — it means a lot!**
+
+*"Code with passion, build with purpose 🔥"*
+
+</div>
