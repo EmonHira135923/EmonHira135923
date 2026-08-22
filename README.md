@@ -71,6 +71,20 @@
 
 <div align="center">
 
+---
+
+<div align="center">
+
+## 📌 Currently Working On
+
+- 🔭 Building projects with **Next.js** and **TypeScript**
+- 🌱 Deepening my algorithms & data structures skills through competitive programming
+- 🤝 Open to collaborating on open-source web projects
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon135923)
@@ -148,20 +162,6 @@
 | **Project Name** | One-line description of what it does and why it's useful | Laravel · MySQL | [Live Demo](#) · [Repo](#) |
 
 </div>
-
----
-
-<div align="center">
-
-## 📌 Currently Working On
-
-- 🔭 Building projects with **Next.js** and **TypeScript**
-- 🌱 Deepening my algorithms & data structures skills through competitive programming
-- 🤝 Open to collaborating on open-source web projects
-
-</div>
-
----
 
 <div align="center">
 
