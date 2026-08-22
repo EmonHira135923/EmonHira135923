@@ -132,6 +132,39 @@
 
 <div align="center">
 
+## 🚀 Featured Projects
+
+<!--
+  Tip: pin your best 2-3 repos on your GitHub profile itself (Customize your pins),
+  then list them here with a one-line description + live demo link. Recruiters and
+  visitors read this section more than any stats widget. Example format below —
+  replace with your real repos.
+-->
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **Project Name** | One-line description of what it does and why it's useful | React · Node.js | [Live Demo](#) · [Repo](#) |
+| **Project Name** | One-line description of what it does and why it's useful | Next.js · MongoDB | [Live Demo](#) · [Repo](#) |
+| **Project Name** | One-line description of what it does and why it's useful | Laravel · MySQL | [Live Demo](#) · [Repo](#) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 Currently Working On
+
+- 🔭 Building projects with **Next.js** and **TypeScript**
+- 🌱 Deepening my algorithms & data structures skills through competitive programming
+- 🤝 Open to collaborating on open-source web projects
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🏆 Competitive Programming
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/emonhira135923)
@@ -156,7 +189,19 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=emonhira135923&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<!--
+  STREAK STATS — fixed
+  The old link used streak-stats.demolab.com, the official free host for this widget.
+  That server is currently going down / redirect-looping intermittently — this is a known,
+  widely-reported issue on the project's GitHub, not something wrong with your username or
+  syntax. Below is a community-run mirror that works as a drop-in replacement.
+
+  For a PERMANENT fix (recommended): self-host it with the official GitHub Action, which
+  generates a static SVG committed to your own repo, so your README never depends on a
+  third-party server's uptime again:
+  https://github.com/marketplace/actions/github-readme-streak-stats-action
+-->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=emonhira135923&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <br/>
 
