@@ -30,39 +30,53 @@
 
 ## 🙋‍♂️ Who Am I?
 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="500">
+
+**Full Stack Web Developer** from Bangladesh 🇧🇩 who loves turning ideas into real, working products — from a contest platform with role-based dashboards to a full parcel-delivery system with live payments and tracking. When I'm not shipping features, I'm sharpening my problem-solving on competitive programming judges.
+
 </div>
+
+<br/>
 
 <table align="center">
   <tr>
-    <td>👤 <b>Name</b></td>
+    <td align="center">👤</td>
+    <td><b>Name</b></td>
     <td>Emon Hossain Hira</td>
   </tr>
   <tr>
-    <td>💼 <b>Role</b></td>
+    <td align="center">💼</td>
+    <td><b>Role</b></td>
     <td>Full Stack Web Developer</td>
   </tr>
   <tr>
-    <td>📍 <b>Location</b></td>
+    <td align="center">📍</td>
+    <td><b>Location</b></td>
     <td>Bangladesh 🇧🇩</td>
   </tr>
   <tr>
-    <td>🌱 <b>Currently Learning</b></td>
+    <td align="center">🌱</td>
+    <td><b>Currently Learning</b></td>
     <td>TypeScript</td>
   </tr>
   <tr>
-    <td>❤️ <b>Passions</b></td>
+    <td align="center">❤️</td>
+    <td><b>Passions</b></td>
     <td>React Development · Competitive Programming · Clean Code</td>
   </tr>
   <tr>
-    <td>⚡ <b>Fun Fact</b></td>
+    <td align="center">⚡</td>
+    <td><b>Fun Fact</b></td>
     <td>I learn new technologies ridiculously fast!</td>
   </tr>
   <tr>
-    <td>📫 <b>Email</b></td>
+    <td align="center">📫</td>
+    <td><b>Email</b></td>
     <td><a href="mailto:emonhossainhira231@gmail.com">emonhossainhira231@gmail.com</a></td>
   </tr>
   <tr>
-    <td>💬 <b>Motto</b></td>
+    <td align="center">💬</td>
+    <td><b>Motto</b></td>
     <td><i>"Code with passion, build with purpose 🔥"</i></td>
   </tr>
 </table>
@@ -70,20 +84,6 @@
 ---
 
 <div align="center">
-
----
-
-<div align="center">
-
-## 📌 Currently Working On
-
-- 🔭 Building projects with **Next.js** and **TypeScript**
-- 🌱 Deepening my algorithms & data structures skills through competitive programming
-- 🤝 Open to collaborating on open-source web projects
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -148,20 +148,48 @@
 
 ## 🚀 Featured Projects
 
-<!--
-  Tip: pin your best 2-3 repos on your GitHub profile itself (Customize your pins),
-  then list them here with a one-line description + live demo link. Recruiters and
-  visitors read this section more than any stats widget. Example format below —
-  replace with your real repos.
--->
+<br/>
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| **Project Name** | One-line description of what it does and why it's useful | React · Node.js | [Live Demo](#) · [Repo](#) |
-| **Project Name** | One-line description of what it does and why it's useful | Next.js · MongoDB | [Live Demo](#) · [Repo](#) |
-| **Project Name** | One-line description of what it does and why it's useful | Laravel · MySQL | [Live Demo](#) · [Repo](#) |
+### 🏆 Contest Hub Platform
+**Full-stack contest management system** — creators publish contests, users join and submit entries, admins moderate everything through role-based dashboards.
+
+`Next.js` `React` `MongoDB` `Stripe` `NextAuth` `Cloudinary`
+
+[🔗 Live Demo](https://contest-hub-platform.vercel.app/) · [📦 Repository](https://github.com/EmonHira135923/Contest-Hub-Platform)
+
+<br/>
+
+### 📦 ZapShift
+**Parcel delivery & courier management platform** — booking, real-time tracking, Stripe payments, and dedicated workflows for customers, riders, and admins.
+
+`Next.js` `React` `MongoDB` `Stripe` `JWT` `Cloudinary`
+
+[🔗 Live Demo](https://zap-shift-project-sooty.vercel.app/) · [📦 Repository](https://github.com/EmonHira135923/Zap-Shift-Project)
+
+<br/>
+
+### 📰 The Daily Jhalokathi
+**Full-stack Bengali news portal** — real-time breaking news ticker, JWT auth, admin dashboard for news/comments/users, and a live weather widget.
+
+`Next.js 16` `React 19` `MongoDB` `JWT` `Cloudinary` `Tailwind CSS`
+
+[🔗 Live Demo](https://the-daily-jhalokathi.vercel.app/) · [📦 Repository](https://github.com/EmonHira135923/The-Daily-Jhalokathi)
 
 </div>
+
+---
+
+<div align="center">
+
+## 📌 Currently Working On
+
+- 🔭 Building projects with **Next.js** and **TypeScript**
+- 🌱 Deepening my algorithms & data structures skills through competitive programming
+- 🤝 Open to collaborating on open-source web projects
+
+</div>
+
+---
 
 <div align="center">
 
