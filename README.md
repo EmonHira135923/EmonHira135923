@@ -30,8 +30,6 @@
 
 ## 🙋‍♂️ Who Am I?
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="500">
-
 **Full Stack Web Developer** from Bangladesh 🇧🇩 who loves turning ideas into real, working products — from a contest platform with role-based dashboards to a full parcel-delivery system with live payments and tracking. When I'm not shipping features, I'm sharpening my problem-solving on competitive programming judges.
 
 </div>
@@ -80,6 +78,18 @@
     <td><i>"Code with passion, build with purpose 🔥"</i></td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 📌 Currently Working On
+
+- 🔭 Building projects with **Next.js** and **TypeScript**
+- 🌱 Deepening my algorithms & data structures skills through competitive programming
+- 🤝 Open to collaborating on open-source web projects
+
+</div>
 
 ---
 
@@ -148,44 +158,11 @@
 
 ## 🚀 Featured Projects
 
-<br/>
-
-### 🏆 Contest Hub Platform
-**Full-stack contest management system** — creators publish contests, users join and submit entries, admins moderate everything through role-based dashboards.
-
-`Next.js` `React` `MongoDB` `Stripe` `NextAuth` `Cloudinary`
-
-[🔗 Live Demo](https://contest-hub-platform.vercel.app/) · [📦 Repository](https://github.com/EmonHira135923/Contest-Hub-Platform)
-
-<br/>
-
-### 📦 ZapShift
-**Parcel delivery & courier management platform** — booking, real-time tracking, Stripe payments, and dedicated workflows for customers, riders, and admins.
-
-`Next.js` `React` `MongoDB` `Stripe` `JWT` `Cloudinary`
-
-[🔗 Live Demo](https://zap-shift-project-sooty.vercel.app/) · [📦 Repository](https://github.com/EmonHira135923/Zap-Shift-Project)
-
-<br/>
-
-### 📰 The Daily Jhalokathi
-**Full-stack Bengali news portal** — real-time breaking news ticker, JWT auth, admin dashboard for news/comments/users, and a live weather widget.
-
-`Next.js 16` `React 19` `MongoDB` `JWT` `Cloudinary` `Tailwind CSS`
-
-[🔗 Live Demo](https://the-daily-jhalokathi.vercel.app/) · [📦 Repository](https://github.com/EmonHira135923/The-Daily-Jhalokathi)
-
-</div>
-
----
-
-<div align="center">
-
-## 📌 Currently Working On
-
-- 🔭 Building projects with **Next.js** and **TypeScript**
-- 🌱 Deepening my algorithms & data structures skills through competitive programming
-- 🤝 Open to collaborating on open-source web projects
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🏆 **Contest Hub Platform** | Full-stack contest management system with role-based dashboards for admins, creators & users | `Next.js` `React` `MongoDB` `Stripe` | [Live](https://contest-hub-platform.vercel.app/) · [Repo](https://github.com/EmonHira135923/Contest-Hub-Platform) |
+| 📦 **ZapShift** | Parcel delivery & courier management platform with real-time tracking and Stripe payments | `Next.js` `React` `MongoDB` `Stripe` | [Live](https://zap-shift-project-sooty.vercel.app/) · [Repo](https://github.com/EmonHira135923/Zap-Shift-Project) |
+| 📰 **The Daily Jhalokathi** | Full-stack Bengali news portal with breaking news ticker, JWT auth & admin dashboard | `Next.js 16` `React 19` `MongoDB` `JWT` | [Live](https://the-daily-jhalokathi.vercel.app/) · [Repo](https://github.com/EmonHira135923/The-Daily-Jhalokathi) |
 
 </div>
 
