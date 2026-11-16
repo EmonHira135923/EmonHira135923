@@ -30,7 +30,7 @@
 
 ## 🙋‍♂️ Who Am I?
 
-**Full Stack Web Developer** from Bangladesh 🇧🇩 who loves turning ideas into real, working products — from a contest platform with role-based dashboards to a full parcel-delivery system with live payments and tracking. When I'm not shipping features, I'm sharpening my problem-solving on competitive programming judges.
+**Full Stack Web Developer** from Bangladesh 🇧🇩 who loves turning ideas into real, working products. I am currently advancing my skills in modern web development, with a focus on **TypeScript, Node.js, Express.js, SQL, PostgreSQL, and Next.js**. I am also exploring **Docker**, **AI tools such as LLMs**, and other emerging technologies to build scalable, production-ready applications.
 
 </div>
 
@@ -60,7 +60,7 @@
   <tr>
     <td align="center">🌱</td>
     <td><b>Currently Learning</b></td>
-    <td>TypeScript · C++ OOP</td>
+    <td>TypeScript · PostgreSQL · SQL · Node.js · Next.js</td>
   </tr>
   <tr>
     <td align="center">❤️</td>
@@ -121,6 +121,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
