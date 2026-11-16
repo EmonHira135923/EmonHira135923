@@ -48,6 +48,11 @@
     <td>Full Stack Web Developer</td>
   </tr>
   <tr>
+    <td align="center">🎓</td>
+    <td><b>Education</b></td>
+    <td>B.Sc. in CSE, Bangladesh University of Business and Technology (BUBT)</td>
+  </tr>
+  <tr>
     <td align="center">📍</td>
     <td><b>Location</b></td>
     <td>Bangladesh 🇧🇩</td>
@@ -55,7 +60,7 @@
   <tr>
     <td align="center">🌱</td>
     <td><b>Currently Learning</b></td>
-    <td>TypeScript</td>
+    <td>TypeScript · C++ OOP</td>
   </tr>
   <tr>
     <td align="center">❤️</td>
@@ -131,23 +136,33 @@
 
 ---
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🔧 Tools & Platforms
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Deployment & Hosting
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -194,22 +209,20 @@
   </a>
 </p>
 
-<!--
-  STREAK STATS — fixed
-  The old link used streak-stats.demolab.com, the official free host for this widget.
-  That server is currently going down / redirect-looping intermittently — this is a known,
-  widely-reported issue on the project's GitHub, not something wrong with your username or
-  syntax. Below is a community-run mirror that works as a drop-in replacement.
-
-  For a PERMANENT fix (recommended): self-host it with the official GitHub Action, which
-  generates a static SVG committed to your own repo, so your README never depends on a
-  third-party server's uptime again:
-  https://github.com/marketplace/actions/github-readme-streak-stats-action
--->
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=emonhira135923&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emonhira135923&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*Let's build something great together.*
 
 </div>
